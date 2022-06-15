@@ -19,3 +19,5 @@ This is where I'll be showcasing all of my work from **2016** to **2022**, illus
 ### Github Statistics:
 
 ![Vexoa's Github Stats](https://github-readme-stats.vercel.app/api?username=VexoaXYZ&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+
+ ![](https://komarev.com/ghpvc/?username=VexoaXYZ)
