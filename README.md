@@ -10,6 +10,10 @@ This is where I'll be showcasing all of my work from **2016** to **2022**, illus
 <br />
 <br />
 
+### Learning Paths:
+
+[**7/22/2022**] - HTML
+
 ### Previous Employers:
 
  - Rocket Cards (**Fintech Startup**) [**Active**]
