@@ -12,7 +12,7 @@ This is where I'll be showcasing all of my work from **2016** to **2022**, illus
 
 ### Learning Paths:
 
-[**7/22/2022**] - HTML
+[**7/22/2022**] - [HTML](https://github.com/VexoaXYZ/Learning-HTML)
 
 ### Previous Employers:
 
