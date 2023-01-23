@@ -1,6 +1,6 @@
 # Hello, my name is Vexoa.
 
-This is where I'll be showcasing all of my work from **2016** to **2022**, illustrating my programming beginnings and how I've improved my code patterns throughout the years. This will show my development and the direction of my work in the future.
+This is where I'll be showcasing all of my work from **2016** to **2023**, illustrating my programming beginnings and how I've improved my code patterns throughout the years. This will show my development and the direction of my work in the future.
 
 
 ### Languages and Tools: 
