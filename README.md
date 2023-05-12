@@ -16,9 +16,9 @@ This is where I'll be showcasing all of my work from **2016** to **2023**, illus
 
 ### Previous Employers:
 
- - Rocket Cards (**Fintech Startup**) [**Active**]
-- SafeBots (**Fintech Startup**) [**Active**]
-- CoinPilot (**Crypto Startup**) [**Not Employed**]
+ - Rocket Cards (**Fintech Startup**)
+- SafeBots (**Fintech Startup**)
+- CoinPilot (**Crypto Startup**)
 
 ### Github Statistics:
 
