@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 19 year old, indie developer focusing on creating some cool projects
+I'm a 21 year old, indie developer focusing on creating some cool projects
 
 
 ## 🌐 Socials:
