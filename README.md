@@ -10,3 +10,4 @@ Currently building and iterating on multiple products.
 ## Links
 - X → https://x.com/Vexoa1  
 - Email → tyrese@yeema.co  
+- Portfolio → https://www.tyrese.london/
