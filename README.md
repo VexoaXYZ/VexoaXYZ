@@ -11,3 +11,4 @@ Currently building and iterating on multiple products.
 - X → https://x.com/Vexoa1  
 - Email → tyrese@yeema.co  
 - Portfolio → https://www.tyrese.london/
+- Company → https://yeema.co
