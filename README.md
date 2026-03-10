@@ -4,7 +4,7 @@ Indie software engineer and product builder.
 Most of my work lives in the React/GoLang ecosystem, with a strong focus on performance and maintainability.
 
 # Current Projects
-🚀 [Straye](https://straye.dev/) - a Cache solution for fivem
+🚀 [Straye](https://straye.dev/) - a Cache solution for fivem<br>
 🕸️ [NexBase](https://github.com/VexoaXYZ/better-nexbase) - A SAAS boilerplate built for production
 
 
