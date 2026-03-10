@@ -5,7 +5,7 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 
 # Current Projects
 🚀 [Straye](https://straye.dev/) - a Cache solution for fivem
-
+🕸️ [NexBase](https://github.com/VexoaXYZ/better-nexbase) - A SAAS boilerplate built for production
 
 
 ---
