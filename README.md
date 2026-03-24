@@ -6,7 +6,7 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 # Current Projects
 🚀 [Straye](https://straye.dev/) - a Cache solution for fivem<br>
 🕸️ [NexBase](https://github.com/VexoaXYZ/better-nexbase) - A SAAS boilerplate built for production
-
+😒 [Better Telegram](https://github.com/VexoaXYZ/telegram-bot-template) - A better telegram bot, built for scale, uses Effect.
 
 ---
 
