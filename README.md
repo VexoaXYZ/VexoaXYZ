@@ -6,7 +6,7 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 ## Current Projects
 🕸️ [NexBase](https://github.com/VexoaXYZ/better-nexbase) - A SAAS boilerplate built for production<br>
 😒 [Better Telegram](https://github.com/VexoaXYZ/telegram-bot-template) - A better telegram bot, built for scale, uses Effect.<br>
-🦾 [Convex-Gate] - A robust, production-ready Better Auth adapter for Convex with improved performance, stability, and developer experience.
+🦾 Convex-Gate - A robust, production-ready Better Auth adapter for Convex with improved performance, stability, and developer experience.
 
 ## Current Companies
 🚀 [Straye](https://straye.dev/) - a Cache solution for fivem<br>
