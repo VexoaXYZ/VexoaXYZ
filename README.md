@@ -14,8 +14,8 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 ## Current Companies
 🚀 [Straye](https://straye.dev/) - a Cache solution for fivem<br>
 👌 [CFX Software](https://cfx.software/) - a Vast majority of open source tooling for fivem<br>
-👨‍💻 [InfraHost](https://infrahost.us) - A fully custom hosting company, built with my own infastructure and panels.
-😶‍🌫️ [Dealium](https://dealium.co.uk/) - A property sourcing company. 
+👨‍💻 [InfraHost](https://infrahost.us) - A fully custom hosting company, built with my own infastructure and panels.<br>
+😶‍🌫️ [Dealium](https://dealium.co.uk/) - A property sourcing company. <br>
 
 ---
 
