@@ -11,10 +11,12 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 🧭 [Billora](https://github.com/VexoaXYZ/Billora) - An open WHMCS competitor
 
 ## Current Companies
-🚀 [Straye](https://straye.dev/) - a Cache solution for fivem<br>
-👌 [CFX Software](https://cfx.software/) - a Vast majority of open source tooling for fivem<br>
+👌 [Rivo](https://rivo.tools/) - a Vast majority of open source tooling for fivem<br> (Previously CFX Software)
 👨‍💻 [InfraHost](https://infrahost.us) - A fully custom hosting company, built with my own infastructure and panels.<br>
-😶‍🌫️ [Dealium](https://dealium.co.uk/) - A property sourcing company. <br>
+
+## Previous Companies
+CFX Software
+Dealium
 
 ---
 
