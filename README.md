@@ -11,7 +11,7 @@ Most of my work lives in the React/GoLang ecosystem, with a strong focus on perf
 🧭 [Billora](https://github.com/VexoaXYZ/Billora) - An open WHMCS competitor
 
 ## Current Companies
-👌 [Rivo](https://rivo.tools/) - a Vast majority of open source tooling for fivem<br> (Previously CFX Software)
+👌 [Rivo](https://rivo.tools/) - a Vast majority of open source tooling for fivem<br> (Previously CFX Software)<br>
 👨‍💻 [InfraHost](https://infrahost.us) - A fully custom hosting company, built with my own infastructure and panels.<br>
 
 ## Previous Companies
